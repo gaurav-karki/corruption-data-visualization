@@ -1,13 +1,6 @@
 # corruption-data-visualization
 Data Engineering, EDA, and Visualization of Corruption Cases from Special Court Database
 
-## Task 4 Dashboard (Streamlit)
-
-This repository includes a Streamlit app for Task 4 advanced visualization:
-
-- Script: streamlit_app.py
-- Primary input: data/task2_feature_engineered_dataset.csv
-- Fallback inputs: other CSV files in data/
 
 ### Run
 
