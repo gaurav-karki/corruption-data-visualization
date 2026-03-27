@@ -7,7 +7,7 @@ Data Engineering, EDA, and Visualization of Corruption Cases from Special Court 
 1. Install dependencies:
 	pip install -r requirements.txt
 2. Start dashboard:
-	streamlit run streamlit_app.py
+	`streamlit run nepal_justice_dashboard.py`
 
 ### Dashboard Features
 
