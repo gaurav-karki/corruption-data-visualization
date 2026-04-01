@@ -1,3 +1,5 @@
+![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-red)
+
 # corruption-data-visualization
 Data Engineering, EDA, and Visualization of Corruption Cases from Special Court Database
 
